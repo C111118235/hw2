@@ -2,8 +2,8 @@
 ```mermaid
 gantt
     title 專案進度
-    dateFormat X
-    axisFormat  %d天
+    dateFormat YYYY-MM-DD
+
     section 研擬計畫
     1    :des1, 2024-01-01, 1d
 
